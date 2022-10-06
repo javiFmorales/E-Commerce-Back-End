@@ -5,7 +5,7 @@ my task was to create the routes for my application, also modify code i was give
 on this challenge i worked with Sequelize and i had to create a connection between Sequelize and mysql database.
 
 
-
+link to github repo: https://github.com/javiFmorales/E-Commerce-Back-End
 
 internet retail, also known as e-commerce, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms will benefit you as a full-stack web developer.
 
